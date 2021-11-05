@@ -19,3 +19,7 @@ To start the server:
 To visit App:
 
 `localhost:3000`
+
+## Project Screenshots
+
+![image](https://user-images.githubusercontent.com/47202610/140485379-da935550-1d45-4870-93a7-364cdcb1ed65.png)
